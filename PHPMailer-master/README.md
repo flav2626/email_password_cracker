@@ -1,7 +1,7 @@
 ![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
-
+README.md
 # PHPMailer - A full-featured email creation and transfer class for PHP
-
+README.md
 Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.png)](https://travis-ci.org/PHPMailer/PHPMailer)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/PHPMailer/PHPMailer/badges/quality-score.png?s=3758e21d279becdf847a557a56a3ed16dfec9d5d)](https://scrutinizer-ci.com/g/PHPMailer/PHPMailer/)
 [![Code Coverage](https://scrutinizer-ci.com/g/PHPMailer/PHPMailer/badges/coverage.png?s=3fe6ca5fe8cd2cdf96285756e42932f7ca256962)](https://scrutinizer-ci.com/g/PHPMailer/PHPMailer/)
@@ -18,7 +18,7 @@ Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.png)](h
 - Native language support
 - DKIM and S/MIME encryption support
 - Compatible with PHP 5.0 and later
-- Much more!
+- Much more!README.md
 
 ## Why you might need it
 
@@ -106,7 +106,7 @@ Generated documentation is [available online](http://phpmailer.github.io/PHPMail
 
 You'll find some basic user-level docs in the [docs](docs/) folder, and you can generate complete API-level documentation using the [generatedocs.sh](docs/generatedocs.sh) shell script in the docs folder, though you'll need to install [PHPDocumentor](http://www.phpdoc.org) first. You may find [the unit tests](test/phpmailerTest.php) a good source of how to do various operations such as encryption.
 
-## Tests
+## TestsREADME.md
 
 There is a PHPUnit test script in the [test](test/) folder.
 
@@ -114,7 +114,7 @@ Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.png)](h
 
 If this isn't passing, is there something you can do to help?
 
-## Contributing
+## ContributingREADME.md
 
 Please submit bug reports, suggestions and pull requests to the [GitHub issue tracker](https://github.com/PHPMailer/PHPMailer/issues).
 
