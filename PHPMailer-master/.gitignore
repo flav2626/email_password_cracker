@@ -2,4 +2,15 @@ docs/phpdoc/
 test/message.txt
 test/testbootstrap.php
 .idea
-build/
+buildPHPMailer-master/.gitignore
+tps://github.com/
+
+
+
+PHPMailer-master/.gitignore
+
+/email_password_crflav2626-patch-1flav2626-patch-1https://github.com/flav2626/email_password_cracker/commit/f850cc25c2fd8055af7462a1536cefaa6d2b2ac7#r33770510Email Password Cracker
+======================
+
+A command line PHP based tool to perform dictionary attacks on Gmail, Microsoft Live and Hotmail accounts.
+README.mdREADME.mdacker/commit/f850cc25c2fd8055af7462a1536cefaa6d2b2ac7#r33770510
